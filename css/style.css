@@ -16,7 +16,40 @@ html {
 }
 
 .intro {
-  padding: 1em;
+  padding: 2em 1em;
   text-align: center;
   line-height: 2em;
+  margin-bottom: 2em;
+}
+
+.headline_sub {
+  color: white;
+  background-color: royalblue;
+  display: inline;
+  font-size: 1.2em;
+  padding: .6em 1em .6em 2em;
+  margin-bottom: 2em;
+}
+
+.pages {
+  margin-top: 1em;
+  padding: 1em;
+}
+
+.pages .page {
+  height: 5em;
+  padding: .4em;
+  box-shadow: 0 0 14px #ddd;
+  max-width: 440px;
+  margin: auto;
+}
+
+.thumbnail {
+  height: 100%;
+  float: left;
+  margin-right: .4em;
+}
+
+.title {
+  padding: .4em;
 }
