@@ -6,6 +6,11 @@ html {
   color: #333;
 }
 
+.content {
+  max-width: 1000px;
+  margin: auto;
+}
+
 .header img {
   width: 100%;
 }
