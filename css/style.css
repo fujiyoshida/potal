@@ -54,3 +54,13 @@ html {
 .title {
   padding: .4em;
 }
+
+.line_qr_image {
+  padding: 2em;
+  max-width: 200px;
+  text-align: center;
+}
+
+.line_qr_image img {
+  width: 100%;
+}
